@@ -7,6 +7,7 @@
         (2)动态方程
             f[e[t].to] = max(f[i]        ,w[e[t].to]  -    mmin[i]       )
             终点最大利润     始点最大利润 终点价值  始点及之前点最小买入价格
+    update: 2018年5月26日
  */
 #include <iostream>
 #include <cstdio>
